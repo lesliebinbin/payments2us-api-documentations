@@ -27,9 +27,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  lesliebinbin
+color_scheme: dark
+
+plugins:
+  - just-the-docs
 
 # Build settings
-theme: minima
+theme: just-the-docs
 
 collections:
    apis:
