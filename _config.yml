@@ -29,6 +29,7 @@ twitter_username: jekyllrb
 github_username:  lesliebinbin
 color_scheme: dark
 
+# plugins should be declared
 plugins:
   - just-the-docs
 
